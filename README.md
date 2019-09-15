@@ -23,6 +23,7 @@ that each existing record that we are thinking about moving hashes to. If there 
 element in the index, in which an object is to be placed, indexing is performed without
 collision, so there is no need to any intervene. Otherwise you need to do some extra
 operations.
+
 ![img1](img/img1.png)
 
 Assume that K is a key and the hash function h(K) returns an index. The cases that may occur
